@@ -7,7 +7,7 @@ This program allows you to update which section you are up to (e.g., '4.3') for 
 - Stores the most recent completed sections in json files for each textbook.
 - Run using a clickable .bat file.
 
-I made this to gameify my progress to help motivate me.
+I made this to gameify my progress to help motivate me and to practice my python skills.
 
 
 ## Viewing Your Progress

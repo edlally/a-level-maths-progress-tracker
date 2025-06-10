@@ -1,6 +1,6 @@
 # A-Level Maths and Further Maths Progress Tracker
 
-This program allows you to update which section you are up to (e.g., '4.3') for the latest (as of 23/06/24) A-Level Maths and Further Maths textbooks (the compulsary 6, and further stats 1 and 2). 
+This program allows you to update which section you are up to (e.g., '4.3') for the latest (as of 23/06/24) A-Level Maths and Further Maths textbooks (the compulsary 6, and further stats 1 and 2). It is my first ever python project.
 
 
 - Calculates mean percentage completion of year 1, year 2, and total A-Level.
